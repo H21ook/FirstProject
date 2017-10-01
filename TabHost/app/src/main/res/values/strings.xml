@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabHost</string>
+    <string name="textTabTitle1">Жолооч</string>
+    <string name="textTabTitle2">Хэрэглэгч</string>
+    <string name="login">Нэвтрэх</string>
+    <string name="sign_up">Бүртгүүлэх</string>
+    <string name="forgot_pass">Нууц үг мартсан</string>
+</resources>

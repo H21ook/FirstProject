@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="babyPowder">#fdfffc</color>
+    <color name="maastrichtBlue">#011627</color>
+    <color name="maastrichtBlueLight">#182b3a</color>
+    <color name="maximumBlueGreen">#2ec4b6</color>
+    <color name="maximumBlueGreenDark">#1e7d74</color>
+    <color name="brightYellowCrayola">#ff9f1c</color>
+    <color name="roseMadder">#e71d36</color>
+</resources>
